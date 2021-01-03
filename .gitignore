@@ -1,3 +1,6 @@
+# Compressed archives
+*.zip
+
 # Prerequisites
 *.d
 
