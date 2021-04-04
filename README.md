@@ -1,1 +1,2 @@
-# EEL770 - Sistemas Operacionais (*Operating Systems*)
+# EEL770 - Sistemas Operacionais
+## _Operating Systems_
